@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🚀 I'm currently working on<br>An AI platform with proprietary tech under the hood · An open-source smart lead generator · A voice agent that joins your calls and only speaks when you say the magic word 🍹<br><br>👥 I'm looking to collaborate on<br>Breaking each other's products · Startup people who want to build something real together<br><br>🍋 I'm looking for help with<br>Graph databases · Voice & audio agents<br><br>💬 Ask me about<br>Agentic architectures · Human-in-the-loop · Why most delivery processes are just expensive theater<br><br>🌱 I'm currently learning<br>Graph DBs · Real-time voice pipelines<br><br>⚡ Fun fact<br>I spend my days building systems that run without humans. Then I log off and touch grass. On purpose.
 
 
